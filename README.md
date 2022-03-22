@@ -1,2 +1,8 @@
-# UW_DataAnalytics
-Class exercises for UW Intro to Data Analytics
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations created from the Data Science & Analytics program with University of Wisconsin - Madison.
+
+## SQL
+
+## Statistics
+
+## Visual Communications
